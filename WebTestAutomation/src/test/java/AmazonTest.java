@@ -2,6 +2,8 @@
 // non-discounted products from the first page of search results to the cart, and verifies that 
 // the added products are correct. The test is parameterized to run on Chrome and Firefox browsers.
 
+package test.java;
+
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
